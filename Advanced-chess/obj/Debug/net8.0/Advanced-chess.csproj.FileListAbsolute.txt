@@ -1,0 +1,14 @@
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\bin\Debug\net8.0\Advanced-chess.exe
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\bin\Debug\net8.0\Advanced-chess.deps.json
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\bin\Debug\net8.0\Advanced-chess.runtimeconfig.json
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\bin\Debug\net8.0\Advanced-chess.dll
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\bin\Debug\net8.0\Advanced-chess.pdb
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.AssemblyInfoInputs.cache
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.AssemblyInfo.cs
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.csproj.CoreCompileInputs.cache
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.dll
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\refint\Advanced-chess.dll
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.pdb
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\Advanced-chess.genruntimeconfig.cache
+C:\Users\Lev\source\repos\Advanced-chess\Advanced-chess\obj\Debug\net8.0\ref\Advanced-chess.dll
